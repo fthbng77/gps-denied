@@ -1,5 +1,7 @@
 # gps-denied Tutorials
 
+Bu repoda sadece başlık içermektedir.
+
 * [Githuba dosya gönderme ve çekme](docs/github_pull_push.md)
 
 * [Aynı ağa bağlı cihazları bulma](docs/ayni_wifi_cihaz_bulma.md)
